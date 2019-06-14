@@ -1,7 +1,6 @@
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname"aws to azure jagadeesh and the important of theazure</th> 
+    <th>jagadeesh aws to azure jagadeesh and the important of theazure</th> 
     <th>Age  azure to aws </th>
   </tr>
   <tr>
