@@ -1,0 +1,17 @@
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname"aws to azure jagadeesh and the important of theazure</th> 
+    <th>Age  azure to aws </th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson is a ploice officer</td> 
+    <td>94</td>
+  </tr>
+</table>
