@@ -1,0 +1,10 @@
+exports = function(payload, response) {
+const stringifiedExtendedJson = payload.body.text();
+const document = EJSON.parse(stringifiedExtendedJson);
+var obj = document.property_type;
+ 
+const mongodb = context.services.get("mongodb-atlas");
+const mycollection = mongodb.db("{{sample_airbnb}}").collection("{{listingsAndReviews}}");
+ 
+return mycollection.find({"property_type":obj});
+};
