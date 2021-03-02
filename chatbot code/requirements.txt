@@ -14,7 +14,7 @@ Flask-RESTful==0.3.4
 Flask-Security==1.7.4
 Flask-WTF==0.12
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.10.1
 MarkupSafe==0.23
 mongoengine==0.10.0
 passlib==1.6.5
